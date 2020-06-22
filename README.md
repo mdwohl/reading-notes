@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Reading Notes
 
-You can use the [editor on GitHub](https://github.com/mdwohl/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A **growth mindset** is centered around the idea that capacities are not fixed at birth, that we are open books so to speak. We can continue to acquire new skills and knowledge throughout our lives. _Our minds are tools_ that can be improved and sharpened. This stands in contrast to a **fixed mindset**, in which the individual sees their own potential as inherent and limited -- impossible to increase or improve.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdwohl/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To keep myself centered in a **growth mindset**, here are some points to remember:
+1. Challenges are opportunities. They enable us to learn new skills, but also to grow as individuals.
+2. The __growth mindset__ is a way of seeing the world. It is not simply "_do x to learn y_".
+3. Keep a dialogue with yourself. Ask questions. Each day, ask yourself "_what went well?_" and "_what didn't work as planned, and how can that be changed?_".
