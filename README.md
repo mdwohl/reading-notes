@@ -1,5 +1,11 @@
 # Reading Notes
 
+## Table of Contents
+1. Growth Mindset
+1. [The Coder's Computer](reading-notes/coders-computer.md)
+1. Revisions and the Cloud
+1. Structure Web Pages with HTML
+
 ## Growth Mindset
 
 A **growth mindset** is centered around the idea that capacities are not fixed at birth, that we are open books so to speak. We can continue to acquire new skills and knowledge throughout our lives. _Our minds are tools_ that can be improved and sharpened. This stands in contrast to a **fixed mindset**, in which the individual sees their own potential as inherent and limited -- impossible to increase or improve.
