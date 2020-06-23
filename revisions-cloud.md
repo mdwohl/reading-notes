@@ -17,3 +17,8 @@ The three step process can be seen as:
 Changes that have been committed locally still need to be *pushed* to the remote repository so that they are up-to-date.
 
 This can be done with the 'git push origin master' command.
+
+Remember: after meaningful changes:
+[x] Add
+[x] Commit
+[x] Push
