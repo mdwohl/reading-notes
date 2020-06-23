@@ -18,7 +18,7 @@ HTML 4 (1997) -> XHTML 1.0 (2000) -> HTML5 (WIP)
 ### Target user/audience
 Thinking about demographics and user profiles helps facilitate usability.
 
-* Individuals
+**Individuals**
 - age
 - gender
 - location
@@ -28,7 +28,7 @@ Thinking about demographics and user profiles helps facilitate usability.
 - frequency of use
 - device of choice
 
-* Companies
+**Companies**
 - size of company or dept
 - who within the company is the user?
 - using for themselves or someone else?
@@ -36,12 +36,14 @@ Thinking about demographics and user profiles helps facilitate usability.
 
 ### Why people visit websites
 
-* Motivations
+Another concern: how long and how frequently?
+
+**Motivations**
 - entertainment, or goal oriented?
 - personal or professional
 - essential or luxury
 
-* Goals
+**Goals**
 - general vs specific
 - novice or advanced
 - time sensitive?
@@ -50,7 +52,6 @@ Thinking about demographics and user profiles helps facilitate usability.
 
 User profiles can help build features to anticipate needs and frequent use cases.
 
-**How frequently will users visit the site?**
 
 ### Site map and card sorting
 
@@ -78,14 +79,16 @@ Groups related content, of which each often uses its own heading. Can contain se
 ### Heading Groups '<hgroup>'
 Groups together a setting of one more more headings '<h1>' through '<h6>'.
 
-### Figures '<figure>' and '<figcaption>'
-Contains content referenced from article's main content flow. Images, videos, graphs, examples, supporting text, etc. '<figure>' should contain a '<figcaption>' as alternate text for accessibility.
+### Figures and '<figcaption>'
+Contains content referenced from article's main content flow. Images, videos, graphs, examples, supporting text, etc. 
+
+Figure tags should contain a '<figcaption>' as alternate text for accessibility.
 
 ### Sectioning Elements '<div>'
 
 Used to group together related elements.
 
 ### Linking
-HTML5 can use anchor /"<a>" tags around an element to turn an entire element into a link.
+HTML5 can use anchor tags around an element to turn an entire element into a link.
 
 *note*: Some older browsers do know understand HTML5 elements, and require JavaScript support to work properly.
