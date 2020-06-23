@@ -60,13 +60,13 @@ Use styles and visual hierarchies to emphasize and differentiate between differe
 
 ## Chapter 17: HTML5 Layout
 
-### Headers & Footers '<header> and <footer>'
+### Headers & Footers '<header>' and <footer>'
 *Headers and footers* are used for creating consistent elements at the top and bottom of each page. The can also denote the beginning of an '<article>' or '<section>' within a page.
 
-### Navigation '<nav>"
+### Navigation '<nav>'
 This element contains the site's navigation blocks 
 
-### Article '<article>"
+### Article '<article>'
 Used to contain a section of a page that could stand on its own (blog entry, comment, article, or other independent content). These elements can be nested within other articles -- as in the example of a blog post with comments nested within via individual '<article>' tags.
 
 ### Aside '<aside>'
@@ -86,6 +86,6 @@ Contains content referenced from article's main content flow. Images, videos, gr
 Used to group together related elements.
 
 ### Linking
-HTML5 can use '<a>' tags around an element to turn an entire element into a link.
+HTML5 can use anchor /"<a>" tags around an element to turn an entire element into a link.
 
 *note*: Some older browsers do know understand HTML5 elements, and require JavaScript support to work properly.
