@@ -3,15 +3,15 @@
 ## Chapter 8: Extra Markup
 HTML 4 (1997) -> XHTML 1.0 (2000) -> HTML5 (WIP)
 
-*Doctype* tag declares what version is being used by the page (ex '<!DOCTYPE html>')
-*Comments* will show up in code but not on page with '<!--  -->'
-*ID attributes* can uniquely identify an element from others
-*Class attributes* can identify a group of elements
-*inline* elements appear to continue on same line as opposed to *block* elements which appear to start on a new line.
-*Div* element allows you to group elements together in a block-level box
-*Span* functions like an inline version of *div*
-*Iframe* functions like a window in your page. Think of scrolling on a map to find a store's location on their site.
-*metadata* contains information about the page itself.
+- *Doctype* tag declares what version is being used by the page (ex '<!DOCTYPE html>')
+- *Comments* will show up in code but not on page with '<!--  -->'
+- *ID attributes* can uniquely identify an element from others
+- *Class attributes* can identify a group of elements
+- *inline* elements appear to continue on same line as opposed to *block* elements which appear to start on a new line.
+- *Div* element allows you to group elements together in a block-level box
+- *Span* functions like an inline version of *div*
+- *Iframe* functions like a window in your page. Think of scrolling on a map to find a store's location on their site.
+- *metadata* contains information about the page itself.
 
 ## Chapter 18: Process and Design
 
@@ -19,34 +19,34 @@ HTML 4 (1997) -> XHTML 1.0 (2000) -> HTML5 (WIP)
 Thinking about demographics and user profiles helps facilitate usability.
 
 * Individuals
--age
--gender
--location
--income
--education
--needs
--frequency of use
--device of choice
+- age
+- gender
+- location
+- income
+- education
+- needs
+- frequency of use
+- device of choice
 
 * Companies
--size of company or dept
--who within the company is the user?
--using for themselves or someone else?
--budget
+- size of company or dept
+- who within the company is the user?
+- using for themselves or someone else?
+- budget
 
 ### Why people visit websites
 
 * Motivations
--entertainment, or goal oriented?
--personal or professional
--essential or luxury
+- entertainment, or goal oriented?
+- personal or professional
+- essential or luxury
 
 * Goals
--general vs specific
--novice or advanced
--time sensitive?
--making a buying decision?
--do they need to contact the company or individual in charge of site?
+- general vs specific
+- novice or advanced
+- time sensitive?
+- making a buying decision?
+- do they need to contact the company or individual in charge of site?
 
 User profiles can help build features to anticipate needs and frequent use cases.
 
