@@ -18,7 +18,4 @@ Changes that have been committed locally still need to be *pushed* to the remote
 
 This can be done with the 'git push origin master' command.
 
-Remember: after meaningful changes:
-[x] Add
-[x] Commit
-[x] Push
+Remember: after meaningful changes A -> C -> P.
